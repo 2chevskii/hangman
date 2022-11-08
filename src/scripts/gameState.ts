@@ -1,0 +1,1 @@
+export type HGameState = 'in-progress' | 'won' | 'lost';
